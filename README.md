@@ -110,14 +110,11 @@ The `Downloader.cs` file manages the file download and displays a progress bar a
 ```bash
 Detected OS: Windows
 Select a browser to download:
-1. Google Chrome
-2. Mozilla Firefox
-3. Microsoft Edge
-4. Brave Browser
-5. Zen Browser
-6. Chromium Browser
+1. Brave Browser
+2. Zen Browser
+3. Chromium Browser
 
-Enter your choice (1-6): 4
+Enter your choice (1-3): 1
 
 Available Brave Browser versions: 1.78.27, 1.78.26
 Enter the version you want to download: 1.78.27
