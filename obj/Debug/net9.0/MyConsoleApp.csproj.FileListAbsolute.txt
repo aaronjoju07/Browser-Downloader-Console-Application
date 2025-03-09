@@ -1,0 +1,14 @@
+/home/aaron/Desktop/Defatom/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp
+/home/aaron/Desktop/Defatom/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp.deps.json
+/home/aaron/Desktop/Defatom/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp.runtimeconfig.json
+/home/aaron/Desktop/Defatom/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp.dll
+/home/aaron/Desktop/Defatom/MyConsoleApp/bin/Debug/net9.0/MyConsoleApp.pdb
+/home/aaron/Desktop/Defatom/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/aaron/Desktop/Defatom/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.AssemblyInfoInputs.cache
+/home/aaron/Desktop/Defatom/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.AssemblyInfo.cs
+/home/aaron/Desktop/Defatom/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.csproj.CoreCompileInputs.cache
+/home/aaron/Desktop/Defatom/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.dll
+/home/aaron/Desktop/Defatom/MyConsoleApp/obj/Debug/net9.0/refint/MyConsoleApp.dll
+/home/aaron/Desktop/Defatom/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.pdb
+/home/aaron/Desktop/Defatom/MyConsoleApp/obj/Debug/net9.0/MyConsoleApp.genruntimeconfig.cache
+/home/aaron/Desktop/Defatom/MyConsoleApp/obj/Debug/net9.0/ref/MyConsoleApp.dll
